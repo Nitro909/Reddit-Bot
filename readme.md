@@ -13,5 +13,6 @@ A simple Reddit bot built with Python and PRAW (Python Reddit API Wrapper). This
 
 - Python 3.8+
 - PRAW
+- Reddit API key
 # Install Dependencies
 -pip install praw
